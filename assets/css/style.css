@@ -967,3 +967,11 @@ footer .copy {
 /* div.Contact-section, div.Quote-Section {
   width: 50%;
 } */
+
+.activity .card .card-img-overlay {
+  padding: 0 1rem !important;
+}
+
+.recent .bottom-text {
+  margin-right: 10px;
+}
